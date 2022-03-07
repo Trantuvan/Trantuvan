@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Trantuvan
+<h1 align="center">Hi 👋, I'm Van aka [Trantuvan]</h1>
 <h3 align="center">A Dotnet Backend Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif"/>
 
@@ -19,4 +19,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trantuvan&show_icons=true&locale=en&layout=compact" alt="trantuvan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trantuvan&show_icons=true&locale=en" alt="trantuvan" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=trantuvan&show_icons=true&locale=en" alt="trantuvan" /></p>
